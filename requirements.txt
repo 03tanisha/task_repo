@@ -9,3 +9,7 @@ pypdf
 sentence-transformers
 langchain-groq
 python-dotenv
+openai
+ollama
+python-dotenv
+requests
